@@ -1,5 +1,8 @@
 # opengl-on-raspberry-pi
 
+By default, opengl is not installed. 
+
+
 
 ps aux | grep lx
 pi         532  0.3  1.3  52504 12916 ?        Ssl  19:15   0:00 /usr/bin/lxsession -s LXDE-pi -e LXDE
